@@ -1,0 +1,2 @@
+source_records,missing_or_bad_dates,missing_borough,missing_all_streets,missing_coordinates,missing_collision_ids,extra_rows_beyond_distinct_ids_including_nulls,missing_person_total_fields,negative_casualty_records,earliest_date,latest_date
+579624,0,196324,14,45885,1,1,2,0,2012-07-27,2025-01-07
